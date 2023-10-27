@@ -2417,6 +2417,13 @@ let cards = [
     author: 'Bhavna',
     githubLink: 'https://github.com/Bhavna2003'
   },
+  {
+    artName: 'Arrows',
+    pageLink: './Art/rudrakushwaha/index.html',
+    imageLink: './Art/rudrakushwaha/arrows.gif',
+    author: 'Rudraksh',
+    githubLink: 'https://github.com/rudrakushwaha'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
